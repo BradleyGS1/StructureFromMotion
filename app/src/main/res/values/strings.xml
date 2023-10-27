@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CornerDetector</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="analyse_photo">Find Corners</string>
+</resources>
